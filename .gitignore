@@ -6,9 +6,16 @@
 *.iws
 *.iml
 *.ipr
+pom.xml
+encodings.xml
+misc.xml
+uiDesigner.xml
+vcs.xml
+workspace.xml
 
 ### VS Code ###
 .vscode/
+
 
 # User-specific stuff
 .idea/**/workspace.xml
@@ -45,9 +52,6 @@
 
 # SonarLint plugin
 .idea/sonarlint/
-
-# read
-/src/main/resources/application.yml
 
 debug/
 *.class
